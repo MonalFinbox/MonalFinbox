@@ -1,16 +1,27 @@
-## Hi there 👋
+# Monal Barse
 
-<!--
-**MonalFinbox/MonalFinbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer Engineer · FINBOX · IIT BHU**
 
-Here are some ideas to get you started:
+---
+- Working with **Go in Dashboard Team**
+- Based in **Bangalore**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monal-barse-350901304/)
+[![GitHub (personal)](https://img.shields.io/badge/GitHub_(personal)-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MonalBarse)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:monalworkmail@gmail.com)
+
+---
+
+### 🛠 Tech
+
+```
+Languages    Go · TypeScript · JavaScript · SQL
+Frontend     React · Next.js · Tailwind 
+Backend      Node.js · Express · REST · WebSockets
+Databases    PostgreSQL · MongoDB
+Infra        
+```
