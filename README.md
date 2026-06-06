@@ -1,8 +1,8 @@
 <div align="center">
 
-# Monal Barse
+# Hi I'm Monal
 
-`SDE · Finbox · IIT BHU`
+`Software Developer · Finbox · IIT BHU`
 
 </div>
 
@@ -45,6 +45,4 @@ infra
 
 ---
 
-<div align="center">
-<sub>personal projects → <a href="https://github.com/MonalBarse">MonalBarse</a></sub>
-</div>
+<sub>personal → <a href="https://github.com/MonalBarse">MonalBarse</a></sub>
